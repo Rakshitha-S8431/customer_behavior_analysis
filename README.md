@@ -50,7 +50,7 @@ Optimize discount strategies for profitability
 Focus marketing on high-revenue segments
 
 Screenshot:
-show what the dashboard looks like:-
+show what the dashboard looks like:-https://github.com/Rakshitha-S8431/customer_behavior_analysis/blob/main/customer_behavior_dashboard.png
 📁 Project Structure
 ├── data/                # Raw & cleaned datasets
 ├── notebooks/           # Python analysis scripts
