@@ -4,11 +4,11 @@ Project Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segments, and product preferences. The goal is to support data-driven business decisions through data analysis and visualization.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Python (Pandas, NumPy) – Data cleaning & preprocessing
 SQL (PostgreSQL / MySQL / SQL Server) – Data analysis
 Power BI – Dashboard & visualization
-📂 Project Workflow
+📂 Project Workflow:
 1. Data Loading & Cleaning (Python)
 Loaded dataset using Pandas
 Performed data inspection using .info() and .describe()
@@ -18,7 +18,7 @@ Created new features:
 Age groups
 Purchase frequency
 Removed redundant columns
-2. Data Analysis (SQL)
+2. Data Analysis (SQL):
 
 Executed SQL queries to answer key business questions:
 
@@ -29,6 +29,7 @@ Shipping type comparison
 Subscriber vs non-subscriber behavior
 Customer segmentation (New, Returning, Loyal)
 Revenue contribution by age group
+
 3. Data Visualization (Power BI)
 Built an interactive dashboard
 Visualized key metrics:
@@ -36,16 +37,20 @@ Revenue trends
 Customer segments
 Product performance
 Purchase behavior patterns
-📊 Key Insights
+
+📊 Key Insights:
 Identified high-value customer segments
 Found top-performing products and categories
 Analyzed impact of discounts on revenue
 Observed differences in subscriber vs non-subscriber spending
-💡 Business Recommendations
+💡 Business Recommendations:
 Promote subscription programs to increase retention
 Introduce customer loyalty rewards
 Optimize discount strategies for profitability
 Focus marketing on high-revenue segments
+
+Screenshot:
+show what the dashboard looks like:-
 📁 Project Structure
 ├── data/                # Raw & cleaned datasets
 ├── notebooks/           # Python analysis scripts
