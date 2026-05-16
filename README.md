@@ -1,9 +1,7 @@
 # customer_behavior_analysis
 End-to-end data analytics project analyzing customer shopping behavior using Python, SQL, and Power BI to generate actionable business insights.
 Project Overview
-
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segments, and product preferences. The goal is to support data-driven business decisions through data analysis and visualization.
-
 🛠️ Tech Stack:
 Python (Pandas, NumPy) – Data cleaning & preprocessing
 SQL (PostgreSQL / MySQL / SQL Server) – Data analysis
@@ -19,9 +17,7 @@ Age groups
 Purchase frequency
 Removed redundant columns
 2. Data Analysis (SQL):
-
 Executed SQL queries to answer key business questions:
-
 Revenue analysis by gender
 High-spending customers using discounts
 Top-rated and best-selling products
@@ -37,7 +33,6 @@ Revenue trends
 Customer segments
 Product performance
 Purchase behavior patterns
-
 📊 Key Insights:
 Identified high-value customer segments
 Found top-performing products and categories
@@ -48,7 +43,6 @@ Promote subscription programs to increase retention
 Introduce customer loyalty rewards
 Optimize discount strategies for profitability
 Focus marketing on high-revenue segments
-
 Screenshot:
 show what the dashboard looks like:-https://github.com/Rakshitha-S8431/customer_behavior_analysis/blob/main/customer_behavior_dashboard.png
 📁 Project Structure
